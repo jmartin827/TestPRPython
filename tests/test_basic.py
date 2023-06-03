@@ -1,4 +1,4 @@
-from basic_functions import add
+from utils.basic_functions import add
 
 
 def test_add():
